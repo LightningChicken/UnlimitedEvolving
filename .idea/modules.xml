@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UnlimitedEvolving.iml" filepath="$PROJECT_DIR$/UnlimitedEvolving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UnlimitedEvolving.iml" filepath="$PROJECT_DIR$/.idea/modules/UnlimitedEvolving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UnlimitedEvolving_main.iml" filepath="$PROJECT_DIR$/.idea/modules/UnlimitedEvolving_main.iml" group="UnlimitedEvolving" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UnlimitedEvolving_test.iml" filepath="$PROJECT_DIR$/.idea/modules/UnlimitedEvolving_test.iml" group="UnlimitedEvolving" />
     </modules>
   </component>
 </project>
